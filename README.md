@@ -27,16 +27,16 @@ https://t.co/NKNT7rj5a6?amp=1
 
 # Airdrop Winners
 
-[Check Out Airdrop Round 1](https://github.com/entropyfi/entropy-airdrop-and-whitelist/blob/main/Airdrop-Round-1.txt)
+[Check Out Airdrop Round 1](https://github.com/entropyfi/entropy-whitelist-and-airdrop/blob/main/Airdrop-Round-1.txt)
 
 # ITO Tier-1 Whitelist
 
-[Check Out Tier 1 Addresses](https://github.com/entropyfi/entropy-airdrop-and-whitelist/blob/main/ITO-Tier1-Whitelist.txt)
+[Check Out Tier 1 Addresses](https://github.com/entropyfi/entropy-whitelist-and-airdrop/blob/main/ITO-Tier1-Whitelist.txt)
 
 [Tier 1 Qualification Contract](https://polygonscan.com/address/0x95ae768436ee3f9d09b579bb065a0f9034837224#code)
 
 # ITO Tier-2 Whitelist
 
-[Check Out Tier 2 Addresses](https://github.com/entropyfi/entropy-airdrop-and-whitelist/blob/main/ITO-Tier2-Whitelist.txt)
+[Check Out Tier 2 Addresses](https://github.com/entropyfi/entropy-whitelist-and-airdrop/blob/main/ITO-Tier2-Whitelist.txt)
 
 [Tier 2 Qualification Contract](https://polygonscan.com/address/0x8554cf97bc5b0dc7ab1ba1ad5069c9710b4e0c00#writeContract)
