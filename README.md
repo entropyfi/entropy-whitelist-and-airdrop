@@ -41,8 +41,8 @@ https://t.co/NKNT7rj5a6?amp=1
 
 [Tier 2 Qualification Contract](https://polygonscan.com/address/0x8554cf97bc5b0dc7ab1ba1ad5069c9710b4e0c00#writeContract)
 
-# Aavegotchi Token Holder Snapshot
+# Aavegotchi Whitelist Stage 1
 
-[Check Out Whitelisted Address](https://github.com/entropyfi/entropy-whitelist-and-airdrop/blob/main/Partnership-GHST-Whitelist.txt)
+[Check Out Whitelisted Address](https://github.com/entropyfi/entropy-whitelist-and-airdrop/blob/main/Aavegotchi-whitelist-stage-1.txt)
 
-[Game Token Reactor Contract](https://polygonscan.com/address/0xDC15d1d1b8d14bE8237f8F4cA1bb4c9dDbbb8776)
+[Game Token Reactor Contract](https://polygonscan.com/address/0x56BF7ce16E2175679553f80CA92554441a83C43e)
