@@ -29,6 +29,8 @@ https://t.co/NKNT7rj5a6?amp=1
 
 [Check Out Airdrop Round 1](https://github.com/entropyfi/entropy-whitelist-and-airdrop/blob/main/Airdrop-Round-1.txt)
 
+[Check Out DeBank Airdrip](https://github.com/entropyfi/entropy-whitelist-and-airdrop/blob/main/Airdrop-DeBank.txt)
+
 # ITO Tier-1 Whitelist
 
 [Check Out Tier 1 Addresses](https://github.com/entropyfi/entropy-whitelist-and-airdrop/blob/main/ITO-Tier1-Whitelist.txt)
@@ -44,5 +46,7 @@ https://t.co/NKNT7rj5a6?amp=1
 # Aavegotchi Token Whielist
 
 [Check Out Aaavegotchi Token Whitelist](https://github.com/entropyfi/entropy-whitelist-and-airdrop/blob/main/Partnership-GHST-Whitelist.txt)
+
+[Check Out Aaavegotchi Token Whitelist Tier 2](https://github.com/entropyfi/entropy-whitelist-and-airdrop/blob/main/Partnership-GHST-Whitelist-Tier2.txt)
 
 [GameTokenReactor Contract](https://polygonscan.com/address/0x56BF7ce16E2175679553f80CA92554441a83C43e)
