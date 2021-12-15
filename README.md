@@ -50,3 +50,9 @@ https://t.co/NKNT7rj5a6?amp=1
 [Check Out Aaavegotchi Token Whitelist Tier 2](https://github.com/entropyfi/entropy-whitelist-and-airdrop/blob/main/Partnership-GHST-Whitelist-Tier2.txt)
 
 [GameTokenReactor Contract](https://polygonscan.com/address/0x56BF7ce16E2175679553f80CA92554441a83C43e)
+
+# BanBridge Token Whielist
+
+[Check Out Bond Token Whitelist](https://github.com/entropyfi/entropy-whitelist-and-airdrop/blob/main/Partnership-BOND-Whitelist.txt)
+
+[GameTokenReactor Contract](https://polygonscan.com/address/0x56BF7ce16E2175679553f80CA92554441a83C43e)
