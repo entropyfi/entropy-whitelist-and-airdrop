@@ -31,6 +31,8 @@ https://t.co/NKNT7rj5a6?amp=1
 
 [Check Out DeBank Airdrip](https://github.com/entropyfi/entropy-whitelist-and-airdrop/blob/main/Airdrop-DeBank.txt)
 
+[Check Out Zapper Airdrip](https://github.com/entropyfi/entropy-whitelist-and-airdrop/blob/main/Airdrop-Zapper.txt)
+
 # ITO Tier-1 Whitelist
 
 [Check Out Tier 1 Addresses](https://github.com/entropyfi/entropy-whitelist-and-airdrop/blob/main/ITO-Tier1-Whitelist.txt)
